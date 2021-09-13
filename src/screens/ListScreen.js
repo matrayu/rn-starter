@@ -32,10 +32,12 @@ const ListScreen = () => {
 const styles = StyleSheet.create({
   headerStyles: {
     fontSize: 45,
+    fontWeight: "normal",
   },
   subHeaderStyles: {
     fontSize: 20,
     marginVertical: 20,
+    fontWeight: "normal",
   },
 });
 
